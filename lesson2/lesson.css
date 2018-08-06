@@ -1,0 +1,19 @@
+.container{
+
+	display: block;
+	width: 828px;
+	height: 428px;
+	border:2px solid lightblue;
+
+
+}
+.name-email{
+	display: flex;
+	justify-content: space-around;
+	padding-top: 75px;
+}
+.message{
+	width: 759px;
+	height: 153px;
+	background-color: 
+}

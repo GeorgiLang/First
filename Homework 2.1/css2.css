@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	display: flex;
+	max-width: 1920px;
+	margin: 0 auto;
+}
+.ad{
+	display: flex;
+	width: 1920px;
+	height: 402px;
+	background-color: #f09955;
+	background-image: url('images/groupe.png');
+	background-repeat: no-repeat;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin-bottom: ;
+}
+.theytrust{
+	color: #fff;
+	font-family: Muli,Arial,sans-serif;
+	font-weight: 800;
+	font-size: 45px;
+	letter-spacing: 0.02em;
+	margin-bottom:19px;
+	
+}
+.partners{
+	display: flex;
+	margin-bottom: 13px;
+	
+}
+.box-link{
+    display: flex;
+	width: 276px;
+	height: 149px;
+	background-color: #fff;
+	margin: 0 7px;
+	justify-content: center;
+	align-items: center;
+	box-shadow: 10px 20px 40px rgba(0,0,0,0.1);
+}
+.box a:hover{
+	background-color: rgba(255,255,255,0.3);
+}
